@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aoun</h1>
 <h3 align="center">A developer, tech enthusiast from Pakistan.</h3>
 
-- 🔭 I’m currently working on **React.js and React Native**
+- 🔭 I’m currently working on **react.js and React Native**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **express.js**
 
 - 💬 Ask me about **react.js**
 
